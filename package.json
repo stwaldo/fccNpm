@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Adam Grow",
 	"description": "Me learning more about npm package management!",
+	"keywords": ["freecodecamp", "npm", "learning"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
